@@ -1,0 +1,71 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.bg{
+  background-color: black;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav-item{
+  color: goldenrod;
+}
+
+.spacerb{
+  height: 20px;
+  background-color: black;
+}
+
+.spacerw{
+  height: 20px;
+  background-color: white;
+}
+
+.spacera{
+  height: 20px;
+  background-color: #161515;
+}
+
+.text-center{
+  color: white;
+}
+
+.tc1{
+  color: black;
+}
+
+.container-fluid{
+  background-color: black;
+}
+
+.two-box{
+  background-color: #161515;
+}
+
+.navbar-brand{
+  color: white;
+}
+
+.nav-link{
+  color: white;
+}
+
+/* Pelayanan Kami */
+.card-title{
+  color: black;
+}
+
+.card-text{
+  color: black;
+}
+
+/* Testimoni */
+.testi{
+  background-color: black;
+}
+
